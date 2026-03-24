@@ -4,7 +4,7 @@
 
 ---
 
-## ✅🌎 Descripción del Equipo
+## Descripción del Equipo:
 Somos el **Equipo 2** del curso de Procesos de Innovación en Ingeniería 2026-1 conformados por estudiantes de la carrera de Ingeniería Ambiental / Informática.
 
 Nuestro objetivo es aplicar la metodología de un proceso de innovación para generar soluciones innovadoras y sostenibles.
@@ -18,12 +18,12 @@ Nos interesa trabajar en los siguientes ODS:
 
 ---
 
-## 📸 Fotografía del Equipo
+## Fotografía del Equipo
 ![Equipo](Recursos%20-%20Imagenes/foto_equipo.jpg)
 
 ---
 
-## 👥 Integrantes del Equipo
+## Integrantes del Equipo:
 | Nombre | Rol | Intereses |
 |--------|-----|-----------|
 | **Barzola Reategui, Josue** josue.barzola@upch.pe | Líder | Diseño web, análisis de datos y sostenibilidad |
@@ -33,5 +33,5 @@ Nos interesa trabajar en los siguientes ODS:
 
 ---
 
-## 📜 Resumen Final
+## Resumen Final:
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.

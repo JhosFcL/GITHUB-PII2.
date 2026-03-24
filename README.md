@@ -26,10 +26,10 @@ Nos interesa trabajar en los siguientes ODS:
 ## Integrantes del Equipo:
 | Nombre | Rol | Intereses |
 |--------|-----|-----------|
-| **Barzola Reategui, Josue** josue.barzola@upch.pe | Líder | Diseño web, análisis de datos y sostenibilidad |
-| **Canase Sanchez, Ashley** ashley.canase@upch.pe | Diseñadora visual | Sostenibilidad, gestión ambiental |
-| **Capcha Pumacahua, Mao** mao.capcha@upch.pe | Diseñador UX | Arquitectura de información, usabilidad |
-| **Chavez Lozano, José Fernando** jose.chavez.l@upch.pe | Investigador | Análisis de datos, sostenibilidad |
+| **Barzola Reategui, Josue** josue.barzola@upch.pe | Líder | Diseño web, análisis de bases de datos y sostenibilidad.  |
+| **Canase Sanchez, Ashley** ashley.canase@upch.pe | Diseñadora visual | Sostenibilidad, gestión ambiental, diseñar. |
+| **Capcha Pumacahua, Mao** mao.capcha@upch.pe | Diseñador UX | Arquitectura de infor–mación, usabilidad técnica y flujos. |
+| **Chavez Lozano, José Fernando** jose.chavez.l@upch.pe | Investigador | Análisis y síntesis de datos, aplicación de sostenibilidad y desarrollo de soluciones tecnológicas. |
 
 ---
 
